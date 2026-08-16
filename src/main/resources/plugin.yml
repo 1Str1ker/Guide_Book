@@ -1,0 +1,9 @@
+name: Guide_book
+version: "3.4"
+main: me.white_black.guidebook.GuideBookPlugin
+api-version: "1.21"
+commands:
+  gb:
+    description: Головна команда довідника.
+    aliases: [guide, menu, help]
+    usage: /<command>
